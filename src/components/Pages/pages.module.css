@@ -1,0 +1,30 @@
+
+.logo{
+    cursor:pointer;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.nav_list {
+    display: flex;
+    list-style: none;
+}
+
+.nav_item {
+    margin-left: 30px;
+    font-size: 18px;
+
+}
+
+img{
+    width: 150px;
+    max-width: 100%;
+}

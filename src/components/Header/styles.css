@@ -1,0 +1,6 @@
+.header {
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(215, 215, 243);
+}
